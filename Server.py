@@ -47,7 +47,7 @@ HTML_PAGE = """
     </style>
 </head>
 <body>
-    <h1>Albion Live Killboard</h1>
+    <h1>AHZ MIPPONN</h1>
     <h2>dev by bx2r03</h2>
 
     <label>Filter Guild: <input type="text" id="guildFilter" placeholder="Enter guild name"></label>
